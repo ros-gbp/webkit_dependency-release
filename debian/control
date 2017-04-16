@@ -1,0 +1,12 @@
+Source: ros-jade-webkit-dependency
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-webkit-dependency
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-qt4
+Description: This encapsulates the WebKit dependency for a specific ROS distribution and its Qt version
