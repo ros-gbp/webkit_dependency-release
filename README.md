@@ -1,3 +1,26 @@
+## webkit_dependency (melodic) - 1.1.0-0
+
+The packages in the `webkit_dependency` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic webkit_dependency` on `Tue, 30 Jan 2018 19:49:46 -0000`
+
+The `webkit_dependency` package was released.
+
+Version of package(s) in repository `webkit_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/webkit_dependency.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## webkit_dependency (lunar) - 1.1.0-0
 
 The packages in the `webkit_dependency` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar webkit_dependency` on `Sun, 16 Apr 2017 23:11:27 -0000`
