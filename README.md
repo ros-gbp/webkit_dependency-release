@@ -1,3 +1,26 @@
+## webkit_dependency (noetic) - 1.1.1-1
+
+The packages in the `webkit_dependency` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic webkit_dependency` on `Tue, 11 Feb 2020 00:00:33 -0000`
+
+The `webkit_dependency` package was released.
+
+Version of package(s) in repository `webkit_dependency`:
+
+- upstream repository: https://github.com/ros-visualization/webkit_dependency.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## webkit_dependency (melodic) - 1.1.0-0
 
 The packages in the `webkit_dependency` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic webkit_dependency` on `Tue, 30 Jan 2018 19:49:46 -0000`
