@@ -1,0 +1,8 @@
+ros-noetic-webkit-dependency (1.1.3-1focal) focal; urgency=high
+
+  * Update CMakeLists.txt (#5 <https://github.com/ros-visualization/webkit_dependency/issues/5>)
+  * Contributors: Arne Hitzmann
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Sat, 26 Apr 2025 00:00:00 -0000
+
+
